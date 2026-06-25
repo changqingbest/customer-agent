@@ -1,0 +1,32 @@
+[
+  {
+    "id": "case-sales-bracket",
+    "message": "我想买金属支架类产品，怎么选型和下单？",
+    "expected_route": "sales",
+    "expect_keywords": ["金属支架", "图纸", "材质", "数量"]
+  },
+  {
+    "id": "case-logistics-germany",
+    "message": "500 个支架发德国，能估算物流方式吗？",
+    "expected_route": "logistics",
+    "expect_keywords": ["德国", "海运", "空运", "快递"]
+  },
+  {
+    "id": "case-support-return",
+    "message": "收到货发现尺寸不对，售后怎么处理？",
+    "expected_route": "support",
+    "expect_keywords": ["照片", "订单号", "补发", "退换"]
+  },
+  {
+    "id": "case-sales-quotation",
+    "message": "铝合金外壳可以按图定制吗？我需要报价。",
+    "expected_route": "sales",
+    "expect_keywords": ["铝合金外壳", "定制", "报价", "图纸"]
+  },
+  {
+    "id": "case-general-greeting",
+    "message": "你好，你们主要做什么产品？",
+    "expected_route": "sales",
+    "expect_keywords": ["产品", "金属", "支架"]
+  }
+]

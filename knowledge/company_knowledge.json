@@ -1,0 +1,98 @@
+[
+  {
+    "id": "C001",
+    "category": "company",
+    "title": "OEM and custom manufacturing support",
+    "content": "We support OEM and custom metal fabrication projects. We can evaluate parts based on drawings, samples, or 3D files before quotation.",
+    "quote": "We support OEM custom metal parts based on drawings, samples, or 3D files.",
+    "keywords": ["oem", "odm", "custom", "drawing", "sample", "3d", "metal fabrication", "定制", "图纸", "样品"]
+  },
+  {
+    "id": "BG001",
+    "category": "buying_guidance",
+    "title": "How to buy bracket and metal products",
+    "content": "For first-time product consultation, first separate standard products from custom projects, then confirm intended use, key dimensions, material, quantity, surface treatment, and destination country.",
+    "quote": "首次购买支架类产品时，应先判断标准品还是定制件，再补充用途、尺寸、材质、数量和目的国。",
+    "keywords": ["how to buy", "how to choose", "buying guidance", "怎么买", "怎么选", "采购流程"]
+  },
+  {
+    "id": "PC001",
+    "category": "product_catalog",
+    "title": "Custom metal brackets",
+    "content": "We produce brackets for mounting, reinforcement, connection, and structural support in stainless steel, carbon steel, or aluminum.",
+    "quote": "Brackets for mounting, reinforcement, connection, and structural support are available.",
+    "keywords": ["product", "bracket", "support bracket", "mounting bracket", "支架", "金属支架"]
+  },
+  {
+    "id": "PC002",
+    "category": "product_catalog",
+    "title": "Sheet metal housings and enclosures",
+    "content": "We make sheet metal housings, covers, cabinets, boxes, and enclosures for industrial equipment and electrical assemblies.",
+    "quote": "Sheet metal housings, covers, cabinets, boxes, and enclosures are part of our product range.",
+    "keywords": ["housing", "enclosure", "cabinet", "box", "机箱", "外壳", "机柜"]
+  },
+  {
+    "id": "SP001",
+    "category": "standard_product",
+    "title": "Standard product inquiry",
+    "content": "For standard product inquiries, please provide product name or model, dimensions or specification, quantity, and destination country.",
+    "quote": "Standard product inquiry usually needs product name or model, specification, quantity, and destination country.",
+    "keywords": ["standard", "model", "specification", "标准品", "型号", "规格"]
+  },
+  {
+    "id": "P001",
+    "category": "product",
+    "title": "Custom stainless steel brackets",
+    "content": "We can make custom stainless steel brackets and similar sheet metal parts. Please send the drawing, material grade, thickness, quantity, and surface treatment requirement for review.",
+    "quote": "Custom stainless steel brackets are supported; drawing, material grade, thickness, quantity, and surface treatment are needed for review.",
+    "keywords": ["stainless steel", "bracket", "sheet metal", "custom", "不锈钢支架"]
+  },
+  {
+    "id": "Q001",
+    "category": "quotation",
+    "title": "Quotation requirements",
+    "content": "For custom quotation, please provide drawing or sample, product name, material, key dimensions, quantity, surface treatment, tolerance requirement, and destination country.",
+    "quote": "For custom quotation, please provide product name, drawing or sample, material, dimensions, quantity, and destination country.",
+    "keywords": ["quotation", "quote", "drawing", "sample", "material", "quantity", "报价", "询盘"]
+  },
+  {
+    "id": "Q002",
+    "category": "pricing",
+    "title": "MOQ policy",
+    "content": "MOQ depends on part complexity and process. Many custom parts start from about 100 to 500 pieces after drawing review.",
+    "quote": "MOQ depends on complexity and process; custom parts often start from about 100 to 500 pieces.",
+    "keywords": ["moq", "minimum order quantity", "100", "500", "起订量"]
+  },
+  {
+    "id": "M001",
+    "category": "materials",
+    "title": "Supported materials",
+    "content": "Common materials include stainless steel, carbon steel, aluminum, galvanized steel, brass, and copper.",
+    "quote": "Common materials include stainless steel, carbon steel, aluminum, galvanized steel, brass, and copper.",
+    "keywords": ["materials", "stainless steel", "carbon steel", "aluminum", "材质", "材料"]
+  },
+  {
+    "id": "L001",
+    "category": "leadtime",
+    "title": "Sample and production lead time",
+    "content": "Typical sample lead time is about 7 to 10 working days after technical confirmation. Mass production is commonly 20 to 35 days.",
+    "quote": "Sample lead time is about 7 to 10 working days; mass production is commonly 20 to 35 days.",
+    "keywords": ["lead time", "sample", "production", "交期", "样品"]
+  },
+  {
+    "id": "S002",
+    "category": "shipping",
+    "title": "Shipping methods",
+    "content": "We can arrange express, air, or sea shipment based on package size, urgency, and destination country.",
+    "quote": "Express, air, and sea shipment can be arranged based on package size, urgency, and destination country.",
+    "keywords": ["shipping", "express", "air", "sea", "destination country", "物流", "运费", "发货"]
+  },
+  {
+    "id": "U001",
+    "category": "uncertain",
+    "title": "Unsupported or uncertain product requests",
+    "content": "If the requested product or process is not covered by internal knowledge, do not promise capability before engineering review. Collect lead details and arrange manual follow-up.",
+    "quote": "Do not promise unsupported products before engineering review; collect lead details and arrange manual follow-up.",
+    "keywords": ["unsupported", "uncertain", "engineering review", "manual follow-up", "人工跟进"]
+  }
+]
